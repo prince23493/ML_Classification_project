@@ -49,4 +49,4 @@ def evaluate():
     return acc, pre, rec, f1, auc  # return metrics for mlflow tracking
 
 if __name__ == "__main__":
-    evaluate()  # run evaluation
+    evaluate()  # run evaluationpython 
